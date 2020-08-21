@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="error_empty_email">Please provide your email.</string>
+    <string name="error_valid_email">Please provide valid email.</string>
+    <string name="error_empty_password">Please provide password.</string>
+    <string name="invalid_user">Invalid user authentication.</string>
+    <string name="error_valid_password">Password should contains one uppercase letter, one lowercase letter, one digit, one special character with minimum of 6 character.</string>
+    <string name="is_valid">Is Valid</string>
+    <string name="logout">logout</string>
+    <string name="logout_msg">Are you sure want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>
